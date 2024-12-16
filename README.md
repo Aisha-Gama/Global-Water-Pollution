@@ -29,7 +29,7 @@ This project analyzes **global water pollution** across different countries. The
 ## Tools Used  
 - **Tableau**: For data visualization and dashboard creation.  
 - **Mapbox**: For geographical mapping.  
-- **Data Sources**: Water pollution data _(external sources, assumed)_.  
+- **Data Sources**: Water pollution data from kaggle.  
 
 ---
 
